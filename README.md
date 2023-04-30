@@ -6,7 +6,7 @@ Repository contenente le risoluzioni dei temi d'esame svolti durante il tutoragg
 Le registrazioni sono solo disponibili agli utenti del Politecnico di Torino <br>
 Per visualizzare la registrazione della risoluzione del tema d'esame è necessario autenticarsi alla piattaforma Teams utilizzando le credenziali del Portale Della Didattica.
 
-|  Giorno|  Tema esame 1 | Link  Registrazione|
+|  Giorno|  Tema esame svolto | Link  Registrazione|
 |--------|---------------|---------------------|
 | 27/04  | Costi Stampa  |[Link](https://politoit-my.sharepoint.com/:v:/g/personal/s308696_studenti_polito_it/ESpObnW93jZHjEKeR_Txt5gBsFAFSv-GDlT9xAzKtBS90Q?e=wP99K2) |
 | 27/04  | Agenda        |[Link](https://politoit-my.sharepoint.com/:v:/g/personal/s308696_studenti_polito_it/EbqY9YzAeWJFgWYgJrhzzk0B_D2LpVmkPZiJdWTOoCVFvw?e=abbtWT) |
