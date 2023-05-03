@@ -10,5 +10,5 @@ Per visualizzare la registrazione della risoluzione del tema d'esame è necessar
 |--------|---------------|---------------------|
 | 27/04  | Costi Stampa  |[Link](https://politoit-my.sharepoint.com/:v:/g/personal/s308696_studenti_polito_it/ESpObnW93jZHjEKeR_Txt5gBsFAFSv-GDlT9xAzKtBS90Q?e=wP99K2) |
 | 27/04  | Agenda        |[Link](https://politoit-my.sharepoint.com/:v:/g/personal/s308696_studenti_polito_it/EbqY9YzAeWJFgWYgJrhzzk0B_D2LpVmkPZiJdWTOoCVFvw?e=abbtWT) |
-| 04/05  |   |   |
-| 04/05 |   |   |
+| 04/05  | Gestione del prestito PC aziendali|   |
+| 04/05 |  Viaggio della slitta|   |
