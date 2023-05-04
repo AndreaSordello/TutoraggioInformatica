@@ -48,4 +48,5 @@ def leggi_registrazioni(nome_file):
 def main():
     lista_pc = leggi_parcoPC("ParcoPC.txt")
     leggi_registrazioni("registrazioni.txt")
+
 main()
