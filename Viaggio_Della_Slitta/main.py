@@ -54,7 +54,7 @@ def calcola_itinerario(lista_b,lista_p):
         for prov in lista_p:
             if b['prov']==prov['prov']:
                 #abbiamo trovato la provincia del bambino
-                bambino_viaggio=b
+                bambino_viaggio=dict(b) # copia del dizionario
                 bambino_viaggio['lat']=prov['lat']
                 bambino_viaggio['long']=prov['long']
                 #print(bambino_viaggio)
