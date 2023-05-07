@@ -13,4 +13,4 @@ Per visualizzare la registrazione della risoluzione del tema d'esame è necessar
 | 04/05  | Gestione del prestito PC aziendali (1° parte)|[Link](https://politoit-my.sharepoint.com/:v:/g/personal/s308696_studenti_polito_it/EcYz0Y8z_YVHpdUnDudMyuEBkEmLjgDh3Z0md61qTaT5PQ?e=sc1CJs)   |
 | 04/05 |  Viaggio della slitta|  [Link](https://politoit-my.sharepoint.com/:v:/g/personal/s308696_studenti_polito_it/Ebsc7cL0qVJOmx5RLUY0u7IBxY3QexQetOk6mabuOOKW_g?e=fnXXKV) |
 | 08/05 | Gestione del prestito PC aziendali (2° parte)  | |
-| 08/05 |   | |
+| 08/05 | Verifica requisiti di Laurea  | |
