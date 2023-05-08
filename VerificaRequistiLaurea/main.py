@@ -1,16 +1,27 @@
-# This is a sample Python script.
 
-# Press Maiusc+F10 to execute it or replace it with your code.
-# Press Double Shift to search everywhere for classes, files, tool windows, actions, and settings.
+def leggi_dati_esame(nome_file):
+    infile= open(nome_file,'r',encoding='UTF-8')
+    linee= infile.readlines()
+    print(linee)
+    lista_esami=[]
+    for linea in linee:
+
+        linea= linea.rstrip()
+        print(linea)
+        campi=linea.split(",")
+        print(campi)
+        esame = {
+            'codice' : campi[0],
+            'cfu' :campi[1],
+            'obb': campi[2],
+        }
+        print(esame)
+        lista_esami.append(esame)
+    print(lista_esami)
+    infile.close()
+    return lista_esami
+def main():
+    lista_esami=leggi_dati_esame("cfu.dati")
 
 
-def print_hi(name):
-    # Use a breakpoint in the code line below to debug your script.
-    print(f'Hi, {name}')  # Press Ctrl+F8 to toggle the breakpoint.
-
-
-# Press the green button in the gutter to run the script.
-if __name__ == '__main__':
-    print_hi('PyCharm')
-
-# See PyCharm help at https://www.jetbrains.com/help/pycharm/
+main()

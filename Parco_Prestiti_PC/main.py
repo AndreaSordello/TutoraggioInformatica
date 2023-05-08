@@ -1,3 +1,5 @@
+from operator import itemgetter
+
 
 def leggi_parcoPC(nome_file):
     input_file=open(nome_file,"r",encoding='UTF-8')
@@ -9,6 +11,10 @@ def leggi_parcoPC(nome_file):
     #print(lista_pc)
     input_file.close()
     return lista_pc
+
+
+
+
 
 def leggi_registrazioni(nome_file):
     input_file=open(nome_file,"r",encoding='UTF-8')
@@ -44,9 +50,43 @@ def leggi_registrazioni(nome_file):
             persona_nuova={'id_pers':campi[1],'lista_pc_in_prestito': []}
             persona_nuova['lista_pc_in_prestito'].append(campi[0])
             lista_prestiti.append(persona_nuova)
-    print(lista_prestiti)
+    #print(lista_prestiti)
+    return lista_prestiti
+
+def punto_uno(lista_prestiti):
+    print("Elenco dei prestiti in corso:")
+    lista_prestiti.sort(key=itemgetter('id_pers'))
+    #print(lista_prestiti)
+    for persona in lista_prestiti:
+        print(f"{persona['id_pers']}:",end=" ")
+        persona['lista_pc_in_prestito'].sort()
+        #print(persona['lista_pc_in_prestito'])
+        for pc in persona['lista_pc_in_prestito']:
+            print(f" {pc}, " ,end=" ")
+        print()
+def punto_due(lista_pc,lista_prestiti):
+    print("pc disponibili per il prestito",end=" ")
+    lista_pc.sort()
+    contPcDisponibili=0
+
+    for pc in lista_pc:
+        trovato=False
+        for persona in lista_prestiti:
+            for pc_in_uso in persona['lista_pc_in_prestito']:
+                if pc == pc_in_uso:
+                    trovato=True
+        if not trovato:
+            #pc disponibile
+            print(pc,end=" ,")
+            contPcDisponibili+=1
+    if contPcDisponibili==0:
+        print("Nessun PC disponibile")
+
+
 def main():
     lista_pc = leggi_parcoPC("ParcoPC.txt")
-    leggi_registrazioni("registrazioni.txt")
+    lista_prestiti=leggi_registrazioni("registrazioni.txt")
 
+    punto_uno(lista_prestiti)
+    punto_due(lista_pc,lista_prestiti)
 main()
