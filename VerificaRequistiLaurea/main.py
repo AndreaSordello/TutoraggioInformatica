@@ -50,7 +50,7 @@ def leggi_log_esami(nome_file):
                 'matricola': campi[0],
                 'lista_esami':[]
             }
-            if not( campi[3] == 'A' or  campi[3]=='R'):
+            if ( campi[3] != 'A' and  campi[3]!='R'):
                 #entro se esame valido
                 carriera['lista_esami'].append({ 'codice': campi[2] , 'voto': campi[3]})  # campi[2] -> sigla, campi[3] -> voto
             lista_carriere.append(carriera)
