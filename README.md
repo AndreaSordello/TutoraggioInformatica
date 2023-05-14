@@ -16,3 +16,4 @@ Per visualizzare la registrazione della risoluzione del tema d'esame è necessar
 | 08/05 | Verifica requisiti di Laurea (1° parte)  |[Link](https://politoit-my.sharepoint.com/:v:/g/personal/s308696_studenti_polito_it/EdHUqnOhEwRCgO2RYrO8RWsBqW37QG2lQysyGws2roMxjg?e=tFp6Yh) |
 | 11/05 |Verifica requisiti di Laurea (2° parte) ||
 | 11/05 | Mappa Laser| |
+| 14/05 | Ricerca comuni||
