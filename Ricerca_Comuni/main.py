@@ -46,7 +46,7 @@ def trova_altitudine_massima(lista_comuni,lista_province):
         print(lista_comuni_nella_provincia)
 
         massimo= max(lista_comuni_nella_provincia,key=itemgetter('altitudine'))
-        #massimo { 'nome':.. }
+
         #print(massimo)
         #Comune più alto nella provincia di AL e' Carrega Ligure che si trova a 958 metri
         print(f"Comune più alto nella provincia di {provincia} è {massimo['nome']} che si trova a {massimo['altitudine']} metri ")
