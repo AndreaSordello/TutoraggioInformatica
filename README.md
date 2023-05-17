@@ -14,6 +14,8 @@ Per visualizzare la registrazione della risoluzione del tema d'esame è necessar
 | 04/05 |  Viaggio della slitta|  [Link](https://politoit-my.sharepoint.com/:v:/g/personal/s308696_studenti_polito_it/Ebsc7cL0qVJOmx5RLUY0u7IBxY3QexQetOk6mabuOOKW_g?e=fnXXKV) |
 | 08/05 | Gestione del prestito PC aziendali (2° parte)  |[Link](https://politoit-my.sharepoint.com/:v:/g/personal/s308696_studenti_polito_it/EVmtwdjciTNMrV7vUsSneqIBmNKzd6xAzW04aPBPQIEl2w?e=ICJcG8)|
 | 08/05 | Verifica requisiti di Laurea (1° parte)  |[Link](https://politoit-my.sharepoint.com/:v:/g/personal/s308696_studenti_polito_it/EdHUqnOhEwRCgO2RYrO8RWsBqW37QG2lQysyGws2roMxjg?e=tFp6Yh) |
-| 11/05 |Verifica requisiti di Laurea (2° parte) |[Link](https://politoit-my.sharepoint.com/:v:/g/personal/s308696_studenti_polito_it/Eey-3qZOfsBBrjjMcVp14IcBwfC73OcKSMN4NXZ6Ttyuzg)
+| 11/05 |Verifica requisiti di Laurea (2° parte) |[Link](https://politoit-my.sharepoint.com/:v:/g/personal/s308696_studenti_polito_it/Eey-3qZOfsBBrjjMcVp14IcBQr1WUQjSdB_-KCACgyVXEA?e=qsecbX)
 | 11/05 | Mappa Laser|[Link](https://politoit-my.sharepoint.com/:v:/g/personal/s308696_studenti_polito_it/EQlduqUjIb1FqgePmvkrf4oBUeZx8AuTASmzCmBV-mSr3A) |
-| 14/05 | Ricerca comuni||
+| 14/05 | Ricerca comuni|[Link](https://politoit-my.sharepoint.com/:v:/g/personal/s308696_studenti_polito_it/Ee83k-WWgV9FqffvGr1qJzQBpYQWcejXB9VlXs-o4KV2bw)|
+| 18/05 | Paniere dei prezzi in Newfoundland | |
+| 18/05 | Gestione conto ristorante | |
