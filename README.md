@@ -17,3 +17,5 @@ Per visualizzare la registrazione della risoluzione del tema d'esame è necessar
 | 11/05 |Verifica requisiti di Laurea (2° parte) |[Link](https://politoit-my.sharepoint.com/:v:/g/personal/s308696_studenti_polito_it/Eey-3qZOfsBBrjjMcVp14IcBwfC73OcKSMN4NXZ6Ttyuzg)
 | 11/05 | Mappa Laser|[Link](https://politoit-my.sharepoint.com/:v:/g/personal/s308696_studenti_polito_it/EQlduqUjIb1FqgePmvkrf4oBUeZx8AuTASmzCmBV-mSr3A) |
 | 14/05 | Ricerca comuni||
+| 18/05 | Paniere dei prezzi in Newfoundland | |
+| 18/05 | Gestione conto ristorante | |
