@@ -30,4 +30,4 @@ Per visualizzare la registrazione della risoluzione del tema d'esame è necessar
 | 11/05 | Mappa Laser|[Link](https://politoit-my.sharepoint.com/:v:/g/personal/s308696_studenti_polito_it/EQlduqUjIb1FqgePmvkrf4oBUeZx8AuTASmzCmBV-mSr3A) |
 | 14/05 | Ricerca comuni|[Link](https://politoit-my.sharepoint.com/:v:/g/personal/s308696_studenti_polito_it/Ee83k-WWgV9FqffvGr1qJzQBpYQWcejXB9VlXs-o4KV2bw)|
 | 18/05 | Paniere dei prezzi in Newfoundland |[Link 1° parte](https://politoit-my.sharepoint.com/:v:/g/personal/s308696_studenti_polito_it/EYLE0t3-ZS9JsWD0vUJL-AYBGEACcejIRMC3P2YN1HppbA?e=5Vw6Xb)  -  [Link 2° parte](https://politoit-my.sharepoint.com/:v:/g/personal/s308696_studenti_polito_it/ETZHE-AkPqBHg0HvkskmVckBjXFW6NV2KBVW_YRiP8dV9g?e=Fo0PY9) |
-| 18/05 | Gestione conto ristorante (1° parte) |[Link](https://politoit-my.sharepoint.com/:v:/g/personal/s308696_studenti_polito_it/ETZHE-AkPqBHg0HvkskmVckBjXFW6NV2KBVW_YRiP8dV9g?e=NBEOXr) |
+| 18/05 | Gestione conto ristorante (1° parte) |[Link](https://politoit-my.sharepoint.com/:v:/g/personal/s308696_studenti_polito_it/EX57xOA07YtDubeeSTkXc_QB5psnPH0VEec-ZvUPFg1qJQ?e=QgeexS) |
