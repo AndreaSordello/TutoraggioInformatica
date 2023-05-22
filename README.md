@@ -1,6 +1,18 @@
+
+
 # Tutoraggio Informatica
 Repository contenente le risoluzioni dei temi d'esame svolti durante il tutoraggio di Informatica 2023 - II periodo.<br>
+
 [Link ai testi dei temi d'esame](https://github.com/polito-info-2022/Esempi-esame)
+
+[Link alla classe virtuale](https://teams.microsoft.com/dl/launcher/launcher.html?url=%2F_%23%2Fl%2Fmeetup-join%2F19%3Ameeting_ZmVjOWIwNzAtOTJjMy00N2YwLWIwNDYtMjYxODAyNWU3NDI1%40thread.v2%2F0%3Fcontext%3D%257b%2522Tid%2522%253a%25222a05ac92-2049-4a26-9b34-897763efc8e2%2522%252c%2522Oid%2522%253a%2522ed8ef391-9437-45f1-aa9f-374afc00ec34%2522%257d%26anon%3Dtrue&type=meetup-join&deeplinkId=642c5aa9-0fcf-4760-9654-616c53bff424&directDl=true&msLaunch=true&enableMobilePage=true&suppressPrompt=true)
+
+## QR Code Github Tutoraggio
+<p align="center">
+<img src="./qrcode.png"  width="300" height="300">
+</p>
+
+## Calendario Tutoraggi
 
 ### ATTENZIONE
 Le registrazioni sono solo disponibili agli utenti del Politecnico di Torino <br>
@@ -17,5 +29,5 @@ Per visualizzare la registrazione della risoluzione del tema d'esame è necessar
 | 11/05 |Verifica requisiti di Laurea (2° parte) |[Link](https://politoit-my.sharepoint.com/:v:/g/personal/s308696_studenti_polito_it/Eey-3qZOfsBBrjjMcVp14IcBQr1WUQjSdB_-KCACgyVXEA?e=qsecbX)
 | 11/05 | Mappa Laser|[Link](https://politoit-my.sharepoint.com/:v:/g/personal/s308696_studenti_polito_it/EQlduqUjIb1FqgePmvkrf4oBUeZx8AuTASmzCmBV-mSr3A) |
 | 14/05 | Ricerca comuni|[Link](https://politoit-my.sharepoint.com/:v:/g/personal/s308696_studenti_polito_it/Ee83k-WWgV9FqffvGr1qJzQBpYQWcejXB9VlXs-o4KV2bw)|
-| 18/05 | Paniere dei prezzi in Newfoundland | |
-| 18/05 | Gestione conto ristorante | |
+| 18/05 | Paniere dei prezzi in Newfoundland |[Link 1° parte](https://politoit-my.sharepoint.com/:v:/g/personal/s308696_studenti_polito_it/EYLE0t3-ZS9JsWD0vUJL-AYBGEACcejIRMC3P2YN1HppbA?e=5Vw6Xb)  -  [Link 2° parte](https://politoit-my.sharepoint.com/:v:/g/personal/s308696_studenti_polito_it/ETZHE-AkPqBHg0HvkskmVckBjXFW6NV2KBVW_YRiP8dV9g?e=Fo0PY9) |
+| 18/05 | Gestione conto ristorante (1° parte) |[Link](https://politoit-my.sharepoint.com/:v:/g/personal/s308696_studenti_polito_it/EX57xOA07YtDubeeSTkXc_QB5psnPH0VEec-ZvUPFg1qJQ?e=QgeexS) |
