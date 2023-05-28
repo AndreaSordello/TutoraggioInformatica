@@ -34,3 +34,4 @@ Per visualizzare la registrazione della risoluzione del tema d'esame è necessar
 | 22/05 | Piramidi |[Link](https://politoit-my.sharepoint.com/:v:/g/personal/s308696_studenti_polito_it/EWp2uxw9d71BvF8wuTOGdEMBbLtrquO67qo_3p1rGAW6bA?e=2PduLx) |
 | 25/05 | Traiettoria Droni | |
 | 25/05 | Risultati gara podistica| |
+| 29/05 | Stabilimento balneare||
