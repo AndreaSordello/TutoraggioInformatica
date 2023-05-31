@@ -33,5 +33,6 @@ Per visualizzare la registrazione della risoluzione del tema d'esame è necessar
 | 18/05 | Gestione conto ristorante (1° parte) |[Link](https://politoit-my.sharepoint.com/:v:/g/personal/s308696_studenti_polito_it/EX57xOA07YtDubeeSTkXc_QB5psnPH0VEec-ZvUPFg1qJQ?e=QgeexS) |
 | 22/05 | Piramidi |[Link](https://politoit-my.sharepoint.com/:v:/g/personal/s308696_studenti_polito_it/EWp2uxw9d71BvF8wuTOGdEMBbLtrquO67qo_3p1rGAW6bA?e=2PduLx) |
 | 25/05 | Traiettoria Droni |[Link](https://politoit-my.sharepoint.com/:v:/g/personal/s308696_studenti_polito_it/Ed3NmRp_GdZNjETI4foEIAUBojrZultyOTd8qyaFGer9ng?e=LTw690) |
-| 25/05 | Risultati gara podistica|[Link](https://politoit-my.sharepoint.com/:v:/g/personal/s308696_studenti_polito_it/EX7BdqKzqbFJlLxQhMF8D1oB1cslc4alidvIJfw_Ky1HiA?e=7alk07) |
-| 29/05 | Stabilimento balneare|[Link](https://politoit-my.sharepoint.com/:v:/g/personal/s308696_studenti_polito_it/EZLJCysDTFVIrQtZPUOgnkYB6v7BJ6-BT3eKsr5h5wE2Ig?e=Mzut7s)|
+| 25/05 | Risultati Gara Podistica|[Link](https://politoit-my.sharepoint.com/:v:/g/personal/s308696_studenti_polito_it/EX7BdqKzqbFJlLxQhMF8D1oB1cslc4alidvIJfw_Ky1HiA?e=7alk07) |
+| 29/05 | Stabilimento Balneare|[Link](https://politoit-my.sharepoint.com/:v:/g/personal/s308696_studenti_polito_it/EZLJCysDTFVIrQtZPUOgnkYB6v7BJ6-BT3eKsr5h5wE2Ig?e=Mzut7s)|
+| 01/06 | Stazioni Meteo||
