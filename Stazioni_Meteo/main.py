@@ -1,10 +1,11 @@
+from operator import itemgetter
 
 
 def media(lista_misurazioni_giornaliere):
     #[{'Temp': 4.6, 'Rugiada': 2.1, 'Pressione': 1028.0, "Umidita'": 84.0},
     # {'Temp': 4.6, 'Rugiada': 2.1, 'Pressione': 1027.7, "Umidita'": 84.0}]
     # ciclare sulle chiavi del dizionario
-    print("MEDIA",end=" ")
+    print("Media",end=" ")
     for key in lista_misurazioni_giornaliere[0].keys():
         #keys restituisce la lista di chiavi di un dizionario,
         # ma noi abbiamo una lista di dizionari che hanno tutti le stesse chiavi, e quindi prendo il primo elemento come riferimento
@@ -20,6 +21,22 @@ def media(lista_misurazioni_giornaliere):
         print(f"{media:.2f}",end=" ")
 
     print()
+
+
+def massimo(lista_misurazioni_giornaliere):
+    print("Massimo", end=" ")
+    for chiave in lista_misurazioni_giornaliere[0].keys():
+        massimo= max (lista_misurazioni_giornaliere,key=itemgetter(chiave))
+        print(f"{massimo[chiave]:.2f}",end=" ")
+    print()
+
+def minimo(lista_misurazioni_giornaliere):
+    print("Minimo", end=" ")
+    for chiave in lista_misurazioni_giornaliere[0].keys():
+        massimo= min (lista_misurazioni_giornaliere,key=itemgetter(chiave))
+        print(f"{massimo[chiave]:.2f}",end=" ")
+    print()
+
 
 def leggi_file_stazione(nome_file):
     input_file = open(nome_file, 'r', encoding='UTF-8')
@@ -48,7 +65,8 @@ def leggi_file_stazione(nome_file):
                 print("Calcolo giorno ", giorno)
                     #media,massimo,minimo e la moda su lista di dizionari
                 media(lista_misurazioni_giornaliere)
-
+                massimo(lista_misurazioni_giornaliere)
+                minimo(lista_misurazioni_giornaliere)
 
                 # resettare lista_misurazioni
                 print("reset")
@@ -67,6 +85,8 @@ def leggi_file_stazione(nome_file):
 
     print("Calcolo ultimo giorno")
     media(lista_misurazioni_giornaliere)
+    massimo(lista_misurazioni_giornaliere)
+    minimo(lista_misurazioni_giornaliere)
 
 def main():
     leggi_file_stazione('Torino.csv')
