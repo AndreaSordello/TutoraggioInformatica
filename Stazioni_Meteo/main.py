@@ -5,7 +5,8 @@ def media(lista_misurazioni_giornaliere):
     #[{'Temp': 4.6, 'Rugiada': 2.1, 'Pressione': 1028.0, "Umidita'": 84.0},
     # {'Temp': 4.6, 'Rugiada': 2.1, 'Pressione': 1027.7, "Umidita'": 84.0}]
     # ciclare sulle chiavi del dizionario
-    print("Media",end=" ")
+    titolo ="Media"
+    print(f"{titolo:>10}",end="  ")
     for key in lista_misurazioni_giornaliere[0].keys():
         #keys restituisce la lista di chiavi di un dizionario,
         # ma noi abbiamo una lista di dizionari che hanno tutti le stesse chiavi, e quindi prendo il primo elemento come riferimento
@@ -18,28 +19,31 @@ def media(lista_misurazioni_giornaliere):
             cont+=1
 
         media=somma/cont
-        print(f"{media:.2f}",end=" ")
+        print(f"{media:<25.2f}",end="")
 
     print()
 
 
 def massimo(lista_misurazioni_giornaliere):
-    print("Massimo", end=" ")
+    titolo ="Massimo"
+    print(f"{titolo:>10}",end="  ")
     for chiave in lista_misurazioni_giornaliere[0].keys():
         massimo= max (lista_misurazioni_giornaliere,key=itemgetter(chiave))
-        print(f"{massimo[chiave]:.2f}",end=" ")
+        print(f"{massimo[chiave]:<25.2f}",end="")
     print()
 
 def minimo(lista_misurazioni_giornaliere):
-    print("Minimo", end=" ")
+    titolo ="Minimo"
+    print(f"{titolo:>10}",end="  ")
     for chiave in lista_misurazioni_giornaliere[0].keys():
-        massimo= min (lista_misurazioni_giornaliere,key=itemgetter(chiave))
-        print(f"{massimo[chiave]:.2f}",end=" ")
+        minimo= min (lista_misurazioni_giornaliere,key=itemgetter(chiave))
+        print(f"{minimo[chiave]:<25.2f}",end="")
     print()
 
 def moda(lista_misurazioni_giornaliere):
     # elemento che compare più volte
-    print("Moda",end=" ")
+    titolo ="Moda"
+    print(f"{titolo:>10}",end="  ")
     for chiave in lista_misurazioni_giornaliere[0].keys():
         diz_occorenze={}
         for misurazione in lista_misurazioni_giornaliere:
@@ -63,18 +67,28 @@ def moda(lista_misurazioni_giornaliere):
                 valore_massimo=elementi[1]
                 chiave_massimo=elementi[0]
 
-        print(f"{chiave_massimo:.2f}",end=" ")
+        print(f"{chiave_massimo:<25.2f}",end="")
 
     print()
 
 
 def leggi_file_stazione(nome_file):
+    "Torino.csv"
+    campi_file=nome_file.split(".")
+    nome_citta= campi_file[0]
+    print(f"Report meteorologico per la stazione di {nome_citta}")
+
     input_file = open(nome_file, 'r', encoding='UTF-8')
 
     intestazione = input_file.readline()
     intestazione = intestazione.rstrip()  # c'è sempre \n
     campiIntestazione = intestazione.split(';')
-    print(campiIntestazione)
+    #print(campiIntestazione)
+    spazio=""
+    print(f"{spazio:>10}",end="  ")
+    for i in range (1,len(campiIntestazione)):
+        print(f"{campiIntestazione[i]:<25}",end="")
+    print()
     lista_misurazioni_giornaliere = []
     giorno = ""
     for linea in input_file:
@@ -87,19 +101,19 @@ def leggi_file_stazione(nome_file):
         # print(giornoLetto)
 
         if giornoLetto != giorno:  # prima volta  1-06!=""  ,seconda volta 2-06!=1-06
-            print("Nuovo giorno")
-            print(giornoLetto)
+            #print("Nuovo giorno")
+           # print(giornoLetto)
             if (giorno != ""):
-                print(lista_misurazioni_giornaliere)    #lista misurazioni del giorno precedente
+               # print(lista_misurazioni_giornaliere)    #lista misurazioni del giorno precedente
                 # calcoli della giornata precedente
-                print("Calcolo giorno ", giorno)
+                print(f"{giorno:>10}")
                     #media,massimo,minimo e la moda su lista di dizionari
                 media(lista_misurazioni_giornaliere)
                 massimo(lista_misurazioni_giornaliere)
                 minimo(lista_misurazioni_giornaliere)
                 moda(lista_misurazioni_giornaliere)
                 # resettare lista_misurazioni
-                print("reset")
+
                 lista_misurazioni_giornaliere=[]
             giorno = giornoLetto
 
@@ -113,13 +127,13 @@ def leggi_file_stazione(nome_file):
         #print(misurazione)
         lista_misurazioni_giornaliere.append(misurazione)
 
-    print("Calcolo ultimo giorno")
+    print(f"{giorno}")
     media(lista_misurazioni_giornaliere)
     massimo(lista_misurazioni_giornaliere)
     minimo(lista_misurazioni_giornaliere)
-
+    moda(lista_misurazioni_giornaliere)
 def main():
-    leggi_file_stazione('Torino.csv')
+    leggi_file_stazione('Vercelli.csv')
 
 
 main()
