@@ -37,6 +37,36 @@ def minimo(lista_misurazioni_giornaliere):
         print(f"{massimo[chiave]:.2f}",end=" ")
     print()
 
+def moda(lista_misurazioni_giornaliere):
+    # elemento che compare più volte
+    print("Moda",end=" ")
+    for chiave in lista_misurazioni_giornaliere[0].keys():
+        diz_occorenze={}
+        for misurazione in lista_misurazioni_giornaliere:
+            if misurazione[chiave] in diz_occorenze:
+                 diz_occorenze[ misurazione[chiave] ] = diz_occorenze[ misurazione[chiave] ] + 1
+            else:
+                diz_occorenze[ misurazione[chiave] ] = 1
+
+        #cercare il massimo tra i valori del dizionario
+        #print(diz_occorenze)
+
+        first=True
+        for elementi in diz_occorenze.items():
+            #.items() restituisce una tupla composta da (chiave,valore)
+            if first:
+                chiave_massimo=elementi[0]
+                valore_massimo=elementi[1]
+                first=False
+
+            if valore_massimo<elementi[1]:
+                valore_massimo=elementi[1]
+                chiave_massimo=elementi[0]
+
+        print(f"{chiave_massimo:.2f}",end=" ")
+
+    print()
+
 
 def leggi_file_stazione(nome_file):
     input_file = open(nome_file, 'r', encoding='UTF-8')
@@ -67,7 +97,7 @@ def leggi_file_stazione(nome_file):
                 media(lista_misurazioni_giornaliere)
                 massimo(lista_misurazioni_giornaliere)
                 minimo(lista_misurazioni_giornaliere)
-
+                moda(lista_misurazioni_giornaliere)
                 # resettare lista_misurazioni
                 print("reset")
                 lista_misurazioni_giornaliere=[]
