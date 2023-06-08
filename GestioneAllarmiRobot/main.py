@@ -40,10 +40,28 @@ def conta_allarmi(lista_allarmi):
     for robot in lista_contatore:
         print(f"Per il robot {robot['id']} si sono verificati {robot['n']} allarmi ")
 
+def severita_massima(lista_allarmi):
+
+    #1 cercare qual'è questa severita
+    massimo = max(lista_allarmi,key=itemgetter('sev'))
+    #print(massimo)
+    severita_max = massimo['sev']
+    print(f"Il livello massimo di severità {severita_max} è stato raggiunto dai seguenti robot:")
+    #2 cercare tutti i robot con quella severita
+    lista_robot_severita_massima=[]
+    for allarmi in lista_allarmi:
+        if (allarmi['sev']==severita_max):
+            if (allarmi['id'] not in lista_robot_severita_massima):
+                lista_robot_severita_massima.append(allarmi['id'])
+
+    for robot in lista_robot_severita_massima:
+             print(robot)
+
 def main():
 
     lista_allarmi=leggi_allarmi('allarmi.csv')
-
     conta_allarmi(lista_allarmi)
+
+    severita_massima(lista_allarmi)
 
 main()
