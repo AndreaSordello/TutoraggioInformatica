@@ -67,7 +67,7 @@ def calcola_traiettorie(lista_stop,lista_drones):
 
             distanza += sqrt( (x_attuale-x_prec)**2 + (y_attuale-y_prec)**2 )
 
-
+            print  (distanza)
             elemento_precedente=elemento_attuale
 
         print()

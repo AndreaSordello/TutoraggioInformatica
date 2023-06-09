@@ -15,6 +15,7 @@ def leggi_allarmi(nome_file):
         }
         lista_allarmi.append(allarme)
    # print(lista_allarmi)
+    input_file.close()
     return lista_allarmi
 
 def conta_allarmi(lista_allarmi):
