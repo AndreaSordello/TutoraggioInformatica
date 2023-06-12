@@ -34,14 +34,14 @@ def leggi_calcola_ricercatore(cognome_ricercatore,lista_riviste):
     cont_last=0
     for linea in input_file:
         linea = linea.rstrip()
-        campi = linea.split('"',maxsplit=3)
-        print(campi)
+        campi = linea.split('"')
+       #print(campi)
         stringa_autori = campi[1]
 
         campi2 = linea.split(",")
-        print(campi2)
+        #print(campi2)
         ISSN = campi2[-1]
-        print(stringa_autori,ISSN)
+        #print(stringa_autori,ISSN)
         if ISSN != "":
             for rivista in lista_riviste:
                 if rivista["ISSN"] == ISSN:
@@ -69,9 +69,9 @@ def leggi_calcola_ricercatore(cognome_ricercatore,lista_riviste):
 
 
 
-    print(f"total IF di ricercatore {cognome_ricercatore}:{total_IF:.2f}")
-    print(f"Total IF come primo autore: {first_IF} ({cont_first} pubblicazioni)")
-    print(f"Total IF come ultimo autore: {last_IF} ({cont_last} pubblicazioni)")
+    print(f"total IF di ricercatore {cognome_ricercatore}: {total_IF:.2f}")
+    print(f"Total IF come primo autore: {first_IF:.2f} ({cont_first} pubblicazioni)")
+    print(f"Total IF come ultimo autore: {last_IF:.2f} ({cont_last} pubblicazioni)")
 
 
 def main():
