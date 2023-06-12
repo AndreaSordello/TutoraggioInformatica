@@ -21,9 +21,12 @@ def leggi_calcola_ricercatore(cognome_ricercatore,lista_riviste):
 
     nome_file = cognome_ricercatore + ".csv"
    # print(nome_file)
-    input_file = open(nome_file,"r",encoding="UTF-8")
+    try:
+        input_file = open(nome_file,"r",encoding="UTF-8")
+    except:
+        print("File non trovato")
+        return;
     input_file.readline()
-
     total_IF = 0
     first_IF = 0
     cont_first =0
@@ -31,12 +34,14 @@ def leggi_calcola_ricercatore(cognome_ricercatore,lista_riviste):
     cont_last=0
     for linea in input_file:
         linea = linea.rstrip()
-        campi = linea.split('"')
-       # print(campi)
+        campi = linea.split('"',maxsplit=3)
+        print(campi)
         stringa_autori = campi[1]
-        campi2 = campi[2].split(",")
-        ISSN = campi2[4]
-        #print(stringa_autori,ISSN)
+
+        campi2 = linea.split(",")
+        print(campi2)
+        ISSN = campi2[-1]
+        print(stringa_autori,ISSN)
         if ISSN != "":
             for rivista in lista_riviste:
                 if rivista["ISSN"] == ISSN:
@@ -73,6 +78,8 @@ def main():
 
     lista_riviste=leggi_riviste("Journal_IF.csv")
 
-    leggi_calcola_ricercatore("Goldwasser",lista_riviste)
+    print("Inserisci il nome del ricercatore:")
+    cognome_ricercatore=input()
+    leggi_calcola_ricercatore(cognome_ricercatore,lista_riviste)
 
 main()
