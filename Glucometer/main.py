@@ -32,7 +32,7 @@ def leggi_glucometers(nome_file):
                 paziente["ListaGlicemia"].append(int(campi[2]))
                 paziente["cont"]+=1
                 lista_pazienti.append(paziente)
-   # print(lista_pazienti)
+    print(lista_pazienti)
     input_file.close()
     return lista_pazienti
 
