@@ -39,9 +39,10 @@ Per visualizzare la registrazione della risoluzione del tema d'esame è necessar
 | 04/06 | Domande di Teoria - Sistemi di numerazione|[Link](https://politoit-my.sharepoint.com/:v:/g/personal/s308696_studenti_polito_it/EVpICDOhiGxJm_gnMd-4Mk4Bn6vpdbZpliFyg7zM5zh_ZQ?e=FwJ0TB) |
 | 08/06 AULA 12 | Domande di Teoria - Sistemi di numerazione |[Link](https://politoit-my.sharepoint.com/:v:/g/personal/s308696_studenti_polito_it/ES9ry-QSTHlEmBMwZBdsWmYB-P3TyGe_iyi9Z2UvBpPlsw?e=VvKoza)|
 | 08/06 AULA 12 | Gestione allarmi robot |[Link](https://politoit-my.sharepoint.com/:v:/g/personal/s308696_studenti_polito_it/EX7YZRpYgtVNmu1b8n0LcIkB11XSUBvR6dXGWxJPztxBZg?e=D0AVwC)|
-| <b>12/06 AULA 5S ORE 16:00 - 19:00</b> | Impact Factor | |
-| <b>12/06 AULA 5S ORE 16:00 - 19:00</b> | Glucometer||
-| <b>13/06 AULA 5S ORE 16:00 - 19:00</b> | Estrazioni del Lotto|||
-| <b>13/06 AULA 5S ORE 16:00 - 19:00</b>||||
+| <b>12/06 AULA 5S ORE 16:00 - 19:00</b> | Impact Factor |[Link](https://politoit-my.sharepoint.com/:v:/g/personal/s308696_studenti_polito_it/EcTP_aNqKOpFpiqd9R3xOSABm6deKhSfOHFq63rAWK4udw?e=EahnfJ) - [Link commento finale](https://politoit-my.sharepoint.com/:v:/g/personal/s308696_studenti_polito_it/EdrMjOEw1bxKgnH32Ijyy00BHI1fSzOgOWUohg5orO4myw?e=tZHcpF) |
+| <b>12/06 AULA 5S ORE 16:00 - 19:00</b> | Glucometer|[Link](https://politoit-my.sharepoint.com/:v:/g/personal/s308696_studenti_polito_it/EU-yqxTLkg9Nnf_i5TsLQpoB854-TWWd7oGRGIzZY1GqDg?e=0qKbyt)|
+| <b>12/06 AULA 5S ORE 16:00 - 19:00</b> | Domande di Teoria - Architettura degli elaboratori |[Link](https://politoit-my.sharepoint.com/:v:/g/personal/s308696_studenti_polito_it/EW8PUcBo4CZOoXrsgFML1nEBpXWeEZWTBwohLvCcr9RhEg?e=TbhdlE)|
+| <b>13/06 AULA 5S ORE 16:00 - 19:00</b> | Estrazioni del Lotto||
+| <b>13/06 AULA 5S ORE 16:00 - 19:00</b> | Intercettazione Polizia||
 | <b>14/06 AULA 5S ORE 16:00 - 19:00</b> ||||
 | <b>14/06 AULA 5S ORE 16:00 - 19:00</b> ||||
