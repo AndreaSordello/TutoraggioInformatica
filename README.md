@@ -44,5 +44,5 @@ Per visualizzare la registrazione della risoluzione del tema d'esame è necessar
 | <b>12/06 AULA 5S ORE 16:00 - 19:00</b> | Domande di Teoria - Architettura degli elaboratori |[Link](https://politoit-my.sharepoint.com/:v:/g/personal/s308696_studenti_polito_it/EW8PUcBo4CZOoXrsgFML1nEBpXWeEZWTBwohLvCcr9RhEg?e=TbhdlE)|
 | <b>13/06 AULA 5S ORE 16:00 - 19:00</b> | Estrazioni del Lotto||
 | <b>13/06 AULA 5S ORE 16:00 - 19:00</b> | Intercettazione Polizia||
-| <b>14/06 AULA 5S ORE 16:00 - 19:00</b> ||||
-| <b>14/06 AULA 5S ORE 16:00 - 19:00</b> ||||
+| <b>14/06 AULA 5S ORE 16:00 - 19:00</b> | Astrologia Calciatori|||
+| <b>14/06 AULA 5S ORE 16:00 - 19:00</b> | Mezzi Pubblici|||
