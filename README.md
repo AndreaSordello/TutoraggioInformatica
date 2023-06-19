@@ -44,5 +44,7 @@ Per visualizzare la registrazione della risoluzione del tema d'esame è necessar
 | <b>12/06 AULA 5S ORE 16:00 - 19:00</b> | Domande di Teoria - Architettura degli elaboratori |[Link](https://politoit-my.sharepoint.com/:v:/g/personal/s308696_studenti_polito_it/EW8PUcBo4CZOoXrsgFML1nEBpXWeEZWTBwohLvCcr9RhEg?e=TbhdlE)|
 | <b>13/06 AULA 5S ORE 16:00 - 19:00</b> | Estrazioni del Lotto|[Link](https://politoit-my.sharepoint.com/:v:/g/personal/s308696_studenti_polito_it/ESpKVW-UwzVNgJEE4LO8Yq0B3vHizXnynPLJ706Htx9qhA?e=16LXeT)|
 | <b>13/06 AULA 5S ORE 16:00 - 19:00</b> | Intercettazione Polizia|[Link](https://politoit-my.sharepoint.com/:v:/g/personal/s308696_studenti_polito_it/EbosiT4U0ZpFixI7x2dUW0AB5DvrdxY2tMaD7xWFOrIUBA?e=NQlHt7)|
-| <b>14/06 AULA 5S ORE 16:00 - 19:00</b> | Astrologia Calciatori|||
-| <b>14/06 AULA 5S ORE 16:00 - 19:00</b> | Mezzi Pubblici|||
+| <b>14/06 AULA 5S ORE 16:00 - 19:00</b> | Astrologia Calciatori|[Link](https://politoit-my.sharepoint.com/:v:/g/personal/s308696_studenti_polito_it/EcUKiniJLa5CuLHIYYOC2n8BtdA8nowoWojXRMCpyklFAg?e=8Gmiu6)|
+| <b>14/06 AULA 5S ORE 16:00 - 19:00</b> | Mezzi Pubblici|[Link](https://politoit-my.sharepoint.com/:v:/g/personal/s308696_studenti_polito_it/EdcBkfodsa1OhyeHV-rg2nABI1bPrvufx1-nbzZkqS7_Uw?e=cAUq6K)|
+|Settimana 19-23 UPDATE SOON||
+|Settimana 26-30 UPDATE SOON||
