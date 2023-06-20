@@ -39,12 +39,12 @@ Per visualizzare la registrazione della risoluzione del tema d'esame è necessar
 | 04/06 | Domande di Teoria - Sistemi di numerazione|[Link](https://politoit-my.sharepoint.com/:v:/g/personal/s308696_studenti_polito_it/EVpICDOhiGxJm_gnMd-4Mk4Bn6vpdbZpliFyg7zM5zh_ZQ?e=FwJ0TB) |
 | 08/06 AULA 12 | Domande di Teoria - Sistemi di numerazione |[Link](https://politoit-my.sharepoint.com/:v:/g/personal/s308696_studenti_polito_it/ES9ry-QSTHlEmBMwZBdsWmYB-P3TyGe_iyi9Z2UvBpPlsw?e=VvKoza)|
 | 08/06 AULA 12 | Gestione allarmi robot |[Link](https://politoit-my.sharepoint.com/:v:/g/personal/s308696_studenti_polito_it/EX7YZRpYgtVNmu1b8n0LcIkB11XSUBvR6dXGWxJPztxBZg?e=D0AVwC)|
-| <b>12/06 AULA 5S ORE 16:00 - 19:00</b> | Impact Factor |[Link](https://politoit-my.sharepoint.com/:v:/g/personal/s308696_studenti_polito_it/EcTP_aNqKOpFpiqd9R3xOSABm6deKhSfOHFq63rAWK4udw?e=EahnfJ) - [Link commento finale](https://politoit-my.sharepoint.com/:v:/g/personal/s308696_studenti_polito_it/EdrMjOEw1bxKgnH32Ijyy00BHI1fSzOgOWUohg5orO4myw?e=tZHcpF) |
-| <b>12/06 AULA 5S ORE 16:00 - 19:00</b> | Glucometer|[Link](https://politoit-my.sharepoint.com/:v:/g/personal/s308696_studenti_polito_it/EU-yqxTLkg9Nnf_i5TsLQpoB854-TWWd7oGRGIzZY1GqDg?e=0qKbyt)|
-| <b>12/06 AULA 5S ORE 16:00 - 19:00</b> | Domande di Teoria - Architettura degli elaboratori |[Link](https://politoit-my.sharepoint.com/:v:/g/personal/s308696_studenti_polito_it/EW8PUcBo4CZOoXrsgFML1nEBpXWeEZWTBwohLvCcr9RhEg?e=TbhdlE)|
-| <b>13/06 AULA 5S ORE 16:00 - 19:00</b> | Estrazioni del Lotto|[Link](https://politoit-my.sharepoint.com/:v:/g/personal/s308696_studenti_polito_it/ESpKVW-UwzVNgJEE4LO8Yq0B3vHizXnynPLJ706Htx9qhA?e=16LXeT)|
-| <b>13/06 AULA 5S ORE 16:00 - 19:00</b> | Intercettazione Polizia|[Link](https://politoit-my.sharepoint.com/:v:/g/personal/s308696_studenti_polito_it/EbosiT4U0ZpFixI7x2dUW0AB5DvrdxY2tMaD7xWFOrIUBA?e=NQlHt7)|
-| <b>14/06 AULA 5S ORE 16:00 - 19:00</b> | Astrologia Calciatori|[Link](https://politoit-my.sharepoint.com/:v:/g/personal/s308696_studenti_polito_it/EcUKiniJLa5CuLHIYYOC2n8BtdA8nowoWojXRMCpyklFAg?e=8Gmiu6)|
-| <b>14/06 AULA 5S ORE 16:00 - 19:00</b> | Mezzi Pubblici|[Link](https://politoit-my.sharepoint.com/:v:/g/personal/s308696_studenti_polito_it/EdcBkfodsa1OhyeHV-rg2nABI1bPrvufx1-nbzZkqS7_Uw?e=cAUq6K)|
-|Settimana 19-23 UPDATE SOON||
+| 12/06 AULA 5S ORE 16:00 - 19:00 | Impact Factor |[Link](https://politoit-my.sharepoint.com/:v:/g/personal/s308696_studenti_polito_it/EcTP_aNqKOpFpiqd9R3xOSABm6deKhSfOHFq63rAWK4udw?e=EahnfJ) - [Link commento finale](https://politoit-my.sharepoint.com/:v:/g/personal/s308696_studenti_polito_it/EdrMjOEw1bxKgnH32Ijyy00BHI1fSzOgOWUohg5orO4myw?e=tZHcpF) |
+| 12/06 AULA 5S ORE 16:00 - 19:00 | Glucometer|[Link](https://politoit-my.sharepoint.com/:v:/g/personal/s308696_studenti_polito_it/EU-yqxTLkg9Nnf_i5TsLQpoB854-TWWd7oGRGIzZY1GqDg?e=0qKbyt)|
+| 12/06 AULA 5S ORE 16:00 - 19:00 | Domande di Teoria - Architettura degli elaboratori |[Link](https://politoit-my.sharepoint.com/:v:/g/personal/s308696_studenti_polito_it/EW8PUcBo4CZOoXrsgFML1nEBpXWeEZWTBwohLvCcr9RhEg?e=TbhdlE)|
+| 13/06 AULA 5S ORE 16:00 - 19:00| Estrazioni del Lotto|[Link](https://politoit-my.sharepoint.com/:v:/g/personal/s308696_studenti_polito_it/ESpKVW-UwzVNgJEE4LO8Yq0B3vHizXnynPLJ706Htx9qhA?e=16LXeT)|
+| 13/06 AULA 5S ORE 16:00 - 19:00 | Intercettazione Polizia|[Link](https://politoit-my.sharepoint.com/:v:/g/personal/s308696_studenti_polito_it/EbosiT4U0ZpFixI7x2dUW0AB5DvrdxY2tMaD7xWFOrIUBA?e=NQlHt7)|
+| 14/06 AULA 5S ORE 16:00 - 19:00| Astrologia Calciatori|[Link](https://politoit-my.sharepoint.com/:v:/g/personal/s308696_studenti_polito_it/EcUKiniJLa5CuLHIYYOC2n8BtdA8nowoWojXRMCpyklFAg?e=8Gmiu6)|
+| 14/06 AULA 5S ORE 16:00 - 19:00 | Mezzi Pubblici|[Link](https://politoit-my.sharepoint.com/:v:/g/personal/s308696_studenti_polito_it/EdcBkfodsa1OhyeHV-rg2nABI1bPrvufx1-nbzZkqS7_Uw?e=cAUq6K)|
+|<b>21/06  AULA 7S ORE 16:00 -19:00<b>||
 |Settimana 26-30 UPDATE SOON||
