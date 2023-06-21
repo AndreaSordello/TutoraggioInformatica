@@ -1,16 +1,58 @@
-# This is a sample Python script.
 
-# Press Maiusc+F10 to execute it or replace it with your code.
-# Press Double Shift to search everywhere for classes, files, tool windows, actions, and settings.
+def leggi_prodotti(nome_file):
+    input_file = open(nome_file,"r",encoding="UTF-8")
+    diz={}
+    for linea in input_file:
+        linea = linea.rstrip()
+        campi=linea.split(" ")
+        diz[campi[0]] = campi[1]
+   # print(diz)
+    input_file.close()
+    return diz
 
 
-def print_hi(name):
-    # Use a breakpoint in the code line below to debug your script.
-    print(f'Hi, {name}')  # Press Ctrl+F8 to toggle the breakpoint.
+def leggi_acquisti(nome_file):
+    input_file = open(nome_file,"r",encoding="UTF-8")
+    diz ={}
+
+    for linea in input_file:
+        linea = linea.rstrip()
+        campi = linea.split(" ")
+        #print(campi)
+        if campi[0] in diz.keys():
+            #caso lettura successiva del prodotto
+            diz[campi[0]].append(campi[1])
+        else:
+            #caso prima lettura del prodotto
+            diz[campi[0]]=[]
+            diz[campi[0]].append(campi[1])
+    #print(diz)
+    input_file.close()
+    return diz
+
+def controlla(diz_official,diz_acquisti):
+
+    print("Elenco transazioni sospette\n")
+    for prodotto in diz_acquisti.keys():
+        rivenditore_ufficiale = diz_official[prodotto]
+        lista_rivenditori = diz_acquisti[prodotto]
+        #print(rivenditore_ufficiale,lista_rivenditori)
+        if len(lista_rivenditori)>1 or rivenditore_ufficiale!= lista_rivenditori[0]:
+            print(f"Codice prodotto: {prodotto}")
+            print(f"Rivenditore ufficiale: {rivenditore_ufficiale}")
+            print(f"Lista rivenditori: ",end="")
+            for riv in lista_rivenditori:
+                print(f"{riv} ",end="")
+            print()
+            print()
 
 
-# Press the green button in the gutter to run the script.
-if __name__ == '__main__':
-    print_hi('PyCharm')
 
-# See PyCharm help at https://www.jetbrains.com/help/pycharm/
+
+def main():
+    diz_official=leggi_prodotti("prodotti.txt")
+    diz_acquisti=leggi_acquisti("acquisti.txt")
+    controlla(diz_official,diz_acquisti)
+
+
+main()
