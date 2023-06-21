@@ -10,7 +10,7 @@ def leggi_risposte(nome_file):
         campi = linea.split(" ")
        # print(campi)
         diz_risposte[campi[0]] = campi[1:]
-    print(diz_risposte)
+    #print(diz_risposte)
     input_file.close()
     return diz_risposte
 
@@ -22,7 +22,7 @@ def leggi_posizioni(nome_file):
         campi = linea.split(" ")
         #print(campi)
         matrice_posizioni.append(campi)
-    print(matrice_posizioni)
+   # print(matrice_posizioni)
     input_file.close()
     return matrice_posizioni
 
@@ -31,7 +31,7 @@ def verificaRisposte(studenteA,studenteB,listaRisposteA,listaRisposteB):
     #caso risposte completamente uguali
     if listaRisposteA==listaRisposteB:
         print(f"le risposte di {studenteA} e {studenteB} sono uguali")
-
+        return 1
     copiatoDa=False
     isDifferente=False
     for i in range(0,len(listaRisposteA)):
@@ -43,29 +43,38 @@ def verificaRisposte(studenteA,studenteB,listaRisposteA,listaRisposteB):
 
     if copiatoDa and isDifferente==False:
         print(f"{studenteA} può aver copiato da {studenteB}")
-
+    return 0
 
 def controllaCopiature(matrice_posizioni,diz_risposte):
 
+
     for i in range(0,len(matrice_posizioni)):
+        skip =0
         for j in range(0,len(matrice_posizioni[i])):
 
             studenteA=matrice_posizioni[i][j]
             listaRisposteA=diz_risposte[studenteA]
            # print(studenteA,listaRisposteA)
             if j-1 >=0:
-                #matrice_posizioni[i][j-1] VICINO DI SX
-                studenteB=matrice_posizioni[i][j-1]
-                listaRisposteB=diz_risposte[studenteB]
-              #  print(studenteB,listaRisposteB)
-                verificaRisposte(studenteA,studenteB,listaRisposteA,listaRisposteB)
+                if skip==0:
+                    #matrice_posizioni[i][j-1] VICINO DI SX
+                    studenteB=matrice_posizioni[i][j-1]
+                    listaRisposteB=diz_risposte[studenteB]
+                   # print(studenteB,listaRisposteB)
+                    skip=  verificaRisposte(studenteA,studenteB,listaRisposteA,listaRisposteB)
+                else:
+                    #skip ==1
+                    skip=0
 
             if j+1 < len(matrice_posizioni[i]):
-                studenteB=matrice_posizioni[i][j+1]
-                listaRisposteB=diz_risposte[studenteB]
-              #  print(studenteB,listaRisposteB)
-                verificaRisposte(studenteA,studenteB,listaRisposteA,listaRisposteB)
-           # print()
+                if skip ==0:
+                    studenteB=matrice_posizioni[i][j+1]
+                    listaRisposteB=diz_risposte[studenteB]
+                    #print(studenteB,listaRisposteB)
+                    skip= verificaRisposte(studenteA,studenteB,listaRisposteA,listaRisposteB)
+                    # print()
+                else:
+                    skip=0
 
 
             #matrice_posizioni[i][j+1]
