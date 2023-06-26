@@ -46,6 +46,8 @@ Per visualizzare la registrazione della risoluzione del tema d'esame è necessar
 | 13/06 AULA 5S ORE 16:00 - 19:00 | Intercettazione Polizia|[Link](https://politoit-my.sharepoint.com/:v:/g/personal/s308696_studenti_polito_it/EbosiT4U0ZpFixI7x2dUW0AB5DvrdxY2tMaD7xWFOrIUBA?e=NQlHt7)|
 | 14/06 AULA 5S ORE 16:00 - 19:00| Astrologia Calciatori|[Link](https://politoit-my.sharepoint.com/:v:/g/personal/s308696_studenti_polito_it/EcUKiniJLa5CuLHIYYOC2n8BtdA8nowoWojXRMCpyklFAg?e=8Gmiu6)|
 | 14/06 AULA 5S ORE 16:00 - 19:00 | Mezzi Pubblici|[Link](https://politoit-my.sharepoint.com/:v:/g/personal/s308696_studenti_polito_it/EdcBkfodsa1OhyeHV-rg2nABI1bPrvufx1-nbzZkqS7_Uw?e=cAUq6K)|
-|<b>21/06  AULA 7S ORE 16:00 -19:00<b>| Controllo Compiti Copiati |
-|<b>21/06  AULA 7S ORE 16:00 -19:00<b>| Hacking |
-|Settimana 26-30 UPDATE SOON||
+|21/06  AULA 7S ORE 16:00 -19:00| Controllo Compiti Copiati |[Link](https://politoit-my.sharepoint.com/:v:/g/personal/s308696_studenti_polito_it/EYJ3ufynpMZIkHqgUlXXVpwBUloGNLUYr2ufi7GekHyZcw?e=dT6Ys4)|
+|21/06  AULA 7S ORE 16:00 -19:00| Hacking |[Link](https://politoit-my.sharepoint.com/:v:/g/personal/s308696_studenti_polito_it/EVwnoIVihi9Fs3XPpXHxLhcB6ybNYz8aCRGkQAZGAhfFYw?e=WH2orx)|
+|21/06  AULA 7S ORE 16:00 -19:00| Domande di Teoria -Funzioni Logiche e Tavole di verità |[Link](https://politoit-my.sharepoint.com/:v:/g/personal/s308696_studenti_polito_it/Eek2mJDNjmtDnU4GXUh3iPgBFJHR1_n7U1Bcu3h51Q9x9w?e=zfHdaR)|
+|<b>26/06  AULA 9S ORE 16:00 -19:00<b>| Indovina Chi|
+|<b>26/06  AULA 9S ORE 16:00 -19:00<b>| Solitario |
