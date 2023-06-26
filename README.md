@@ -49,5 +49,5 @@ Per visualizzare la registrazione della risoluzione del tema d'esame è necessar
 |21/06  AULA 7S ORE 16:00 -19:00| Controllo Compiti Copiati |[Link](https://politoit-my.sharepoint.com/:v:/g/personal/s308696_studenti_polito_it/EYJ3ufynpMZIkHqgUlXXVpwBUloGNLUYr2ufi7GekHyZcw?e=dT6Ys4)|
 |21/06  AULA 7S ORE 16:00 -19:00| Hacking |[Link](https://politoit-my.sharepoint.com/:v:/g/personal/s308696_studenti_polito_it/EVwnoIVihi9Fs3XPpXHxLhcB6ybNYz8aCRGkQAZGAhfFYw?e=WH2orx)|
 |21/06  AULA 7S ORE 16:00 -19:00| Domande di Teoria -Funzioni Logiche e Tavole di verità |[Link](https://politoit-my.sharepoint.com/:v:/g/personal/s308696_studenti_polito_it/Eek2mJDNjmtDnU4GXUh3iPgBFJHR1_n7U1Bcu3h51Q9x9w?e=zfHdaR)|
-|<b>26/06  AULA 9S ORE 16:00 -19:00<b>||
-|<b>26/06  AULA 9S ORE 16:00 -19:00<b>| |
+|<b>26/06  AULA 9S ORE 16:00 -19:00<b>| Indovina Chi|
+|<b>26/06  AULA 9S ORE 16:00 -19:00<b>| Solitario |
