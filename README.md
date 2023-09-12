@@ -51,8 +51,9 @@ Per visualizzare la registrazione della risoluzione del tema d'esame è necessar
 |21/06  AULA 7S ORE 16:00 -19:00| Domande di Teoria -Funzioni Logiche e Tavole di verità |[Link](https://politoit-my.sharepoint.com/:v:/g/personal/s308696_studenti_polito_it/Eek2mJDNjmtDnU4GXUh3iPgBFJHR1_n7U1Bcu3h51Q9x9w?e=zfHdaR)|
 |26/06  AULA 9S ORE 16:00 -19:00| Indovina Chi|[Link](https://politoit-my.sharepoint.com/:v:/g/personal/s308696_studenti_polito_it/ETkMCic7rF5GkMCkQiD2VtUBTgOjulQYvgmhjedofdw5CQ?e=s0lFgj)
 |26/06  AULA 9S ORE 16:00 -19:00| Solitario |[Link](https://politoit-my.sharepoint.com/:v:/g/personal/s308696_studenti_polito_it/EcG07d1K2pJLojEIFVEHsrwBk7Nxxd3ZvUj1LVBaYMvKtQ?e=gOQuX4)|
-|08/09  TEAMS ORE 10:00 -13:00| Torneo Calcio  ||
-|08/09  TEAMS ORE 10:00 -13:00| USS Enterprise ||
-| ... |...| ...
+|08/09  TEAMS ORE 10:00 -13:00| Torneo Calcio  |[Link](https://politoit-my.sharepoint.com/:v:/g/personal/s308696_studenti_polito_it/EZh2-S42vxBLnJEbSxsLjbgBRAnM_w_1V7ZIJZI-bQUswA?e=v8o8bI&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19)|
+|08/09  TEAMS ORE 10:00 -13:00| USS Enterprise |[Link](https://politoit-my.sharepoint.com/:v:/g/personal/s308696_studenti_polito_it/Eet8MhEl2XxGiJ9fnmFzagUBHbUx5r-eev6Wpesb4jLs9A?e=WDBFrI&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19)|
+| 12/09  TEAMS ORE 9:00 -12:00| Battaglia navale |[Link](https://politoit-my.sharepoint.com/:v:/g/personal/s308696_studenti_polito_it/ESbt__RKS8pHgDdbJ8KbYfABE8AYPZrU-j1jZUXzlIKhtQ?e=gqR7sf&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19)|
+| 12/09  TEAMS ORE 9:00 -12:00| Capitan Nemo |[Link](https://politoit-my.sharepoint.com/:v:/g/personal/s308696_studenti_polito_it/EU_NdTbBNkxGn6Lw-21_TKkBlloOGjTef_oR0V32FIEFFA?e=JLzuKn&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19)|
 
 
